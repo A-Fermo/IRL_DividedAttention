@@ -1,0 +1,2 @@
+Contrast,A,B,mean(A),std(A),mean(B),std(B),Paired,Parametric,T,dof,alternative,p-unc,BF10,eta-square
+task,SINGLE,SWITCH,54.85,9.316228059851149,62.35,10.39749463750004,True,True,-3.815189254814376,19.0,two-sided,0.0011685473650315534,31.94,0.12610693868400408
